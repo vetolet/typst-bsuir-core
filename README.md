@@ -22,12 +22,12 @@
 ## Projects with typst-bsuir-core:
 * [ТЭЦ, Лабораторная работа №1 (Исследование цепи постоянного тока методом наложения)](https://github.com/vetolet/toec-lab1)
 
-## Dependencies (and thanks):
+## Dependencies (and thanks to):
 * gost: [modern-g7-32](https://github.com/typst-gost/modern-g7-32)
 * circuits: [zap](https://github.com/l0uisgrange/zap), [documentation](https://zap.grangelouis.ch/#decorations)
 * diagrams + circuits: [cetz](https://github.com/cetz-package/cetz), [documentation](https://cetz-package.github.io/docs/getting-started)
 
-## Thanks:
+## Also thanks to:
 
 * [typst](https://github.com/typst/typst) for making this possible
 * [utpm](https://github.com/typst-community/utpm) is used to create package
